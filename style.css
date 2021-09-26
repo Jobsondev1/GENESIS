@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: rgb(288, 255, 239);
+}
+
+.main-game{
+    height: 100vh;
+    width: 100vm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genius{
+    display: grid;
+}
